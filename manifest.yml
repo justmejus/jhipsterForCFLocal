@@ -3,4 +3,4 @@ applications:
 - name: demo
   memory: 1G
   random-route: true
-  path: jhipster-for-cf-local-0.0.1-SNAPSHOT.jar 
+  path: target/jhipster-for-cf-local-0.0.1-SNAPSHOT.jar 
